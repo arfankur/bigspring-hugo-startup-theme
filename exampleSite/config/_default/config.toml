@@ -1,4 +1,4 @@
-baseURL = "https://arfankurnianto.netlify.app/"
+baseURL = "https://arfankurnianto.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "6"
