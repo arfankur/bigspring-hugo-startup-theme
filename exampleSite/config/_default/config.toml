@@ -1,9 +1,9 @@
-baseURL = "https://arfankurnianto.netlify.app"
+baseURL = "https://arfankurnianto.netlify.app/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "6"
 summaryLength = "15"
 theme = "bigspring"
-title = "TestHugo"
+title = "Ngetest"
 [markup.goldmark.renderer]
 unsafe = true
